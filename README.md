@@ -1,4 +1,4 @@
-### Hi there 👋,I'm xiaojin.
+### Hi there 👋,I'm 小瑾，一名24届毕业生，就读于东北石油大学软件工程.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
