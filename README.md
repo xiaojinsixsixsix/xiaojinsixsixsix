@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about  related to Java.
+- 💬 You can ask me some questions about JAVA
 - 📫 How to reach me: xiaojinsixsix@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
